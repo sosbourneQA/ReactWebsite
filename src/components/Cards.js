@@ -21,6 +21,14 @@ function Cards() {
                       label="Italy"
                       path="/services"
                     />
+                  </ul>
+                  <ul className="cards__items">
+                  <CardItem 
+                      src="images/amsterdam.jpg"
+                      text="immsrse yourself in all manner of things in Amsterdam"
+                      label="Italy"
+                      path="/services"
+                    />
                     <CardItem 
                       src="images/amsterdam.jpg"
                       text="immsrse yourself in all manner of things in Amsterdam"
