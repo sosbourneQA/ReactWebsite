@@ -11,8 +11,28 @@ function Cards() {
                   <ul className="cards__items">
                     <CardItem 
                       src="images/venice.jpg"
-                      text="explore the canals of venice"
+                      text="Explore the canals of Venice"
                       label="Italy"
+                      path="/services"
+                    />
+                    <CardItem 
+                      src="images/paris.jpg"
+                      text="Enjoy the food and culture in Paris"
+                      label="France"
+                      path="/services"
+                    />
+                  </ul>
+                  <ul className="cards__items">
+                  <CardItem 
+                      src="images/amsterdam.jpg"
+                      text="Immsrse yourself in all manner of things in Amsterdam"
+                      label="Italy"
+                      path="/services"
+                    />
+                    <CardItem 
+                      src="images/berlin.jpg"
+                      text="Engage with history in Berlin"
+                      label="Germany"
                       path="/services"
                     />
                   </ul>
