@@ -24,12 +24,13 @@
   .cards__items {
     margin-bottom: 24px;
   }
+
   
   .cards__item {
-    display: flex;
-    flex: 1;
+    display: flex ;
+    flex: 1; 
     margin: 0 1rem;
-    border-radius: 10px;
+    border-radius: 10px; 
   }
   
   .cards__item__link {
@@ -92,6 +93,7 @@
   .cards__item__info {
     padding: 20px 30px 30px;
     background-color: white;
+    display: flex;
   }
   
   .cards__item__text {

@@ -29,12 +29,7 @@ function Cards() {
                       label="Italy"
                       path="/services"
                     />
-                    <CardItem 
-                      src="images/berlin.jpg"
-                      text="Engage with history in Berlin"
-                      label="Germany"
-                      path="/services"
-                    />
+                 
                   </ul>
                 </div>
             </div>
